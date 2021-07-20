@@ -69,10 +69,10 @@ The configuration options:
 The file needs to be placed on the secure server
 * **Javascript File URL** - The link to the custom javascript file. The custom javascript code does not replace the default one, however it is possible to disable the functionalities of the default code with the custom one. Examples below. The file needs to be placed on the secure server
 
-The default voisentryAudioCollector.js file can be found here:
+The default voisentryAudioCollector.js file can be found here:  
 https://webdemo.aculab.com/forgerock/js/voisentryAudioCollector.js
 
-The example CSS file voisentryAudioCollector.css file can be found here:
+The example CSS file voisentryAudioCollector.css file can be found here:  
 https://webdemo.aculab.com/forgerock/css/voisentryAudioCollector.css
 
 This example shows how to override the default behavior of the recording button:
